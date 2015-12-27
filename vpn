@@ -12,7 +12,7 @@ Usage:
 
 Options:
   connect     <vpn_name>  Establish a new connection
-  disconnect  [vpn_name]  Terminate established connections
+  disconnect  <vpn_name>  Terminate established connections
   status      [vpn_name]  Show connection status
 EOF
 exit 1
